@@ -7,6 +7,8 @@ public class Switch {
         Scanner in=new Scanner(System.in);
         int button= in.nextInt();
 
+
+
         switch (button){
             case 1:
                 System.out.println("print 1");
